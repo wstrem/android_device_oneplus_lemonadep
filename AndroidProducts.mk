@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havocos_lemonadep.mk
+    $(LOCAL_DIR)/havoc_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    havocos_lemonadep-user \
-    havocos_lemonadep-userdebug \
-    havocos_lemonadep-eng
+    havoc_lemonadep-user \
+    havoc_lemonadep-userdebug \
+    havoc_lemonadep-eng
